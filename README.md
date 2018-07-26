@@ -14,3 +14,8 @@ You are given a dataset of trainee performance for the training curriculum test 
 
 # Evaluation Metric
 The evaluation metric for this competition is AUC ROC score.
+
+# Result
+Got 0.7912 AUC-ROC score on private leaderboard and secured 76th position amongst 287 participants. 
+
+[Link](https://datahack.analyticsvidhya.com/contest/the-data-identity-2/pvt_lb)
